@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alex-marafon/Video-Maker/issues"
   },
-  "homepage": "https://github.com/alex-marafon/Video-Maker#readme"
+  "homepage": "https://github.com/alex-marafon/Video-Maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
